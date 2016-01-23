@@ -1,6 +1,9 @@
 # dist directory
 dist
 
+# trie files
+**trie.json
+
 # Logs
 logs
 *.log
